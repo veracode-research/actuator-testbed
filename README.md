@@ -6,3 +6,4 @@
 
 See https://www.veracode.com/blog/research/exploiting-spring-boot-actuators for attack payloads.
 
+![screenshot](./screen.png)
